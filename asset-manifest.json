@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/andjag.github.io/static/css/main.807be20f.css",
-    "main.js": "/andjag.github.io/static/js/main.11c5b02f.js",
-    "static/js/453.28c95845.chunk.js": "/andjag.github.io/static/js/453.28c95845.chunk.js",
-    "index.html": "/andjag.github.io/index.html",
-    "main.807be20f.css.map": "/andjag.github.io/static/css/main.807be20f.css.map",
-    "main.11c5b02f.js.map": "/andjag.github.io/static/js/main.11c5b02f.js.map",
-    "453.28c95845.chunk.js.map": "/andjag.github.io/static/js/453.28c95845.chunk.js.map"
+    "main.css": "/static/css/main.807be20f.css",
+    "main.js": "/static/js/main.fd34542b.js",
+    "static/js/453.28c95845.chunk.js": "/static/js/453.28c95845.chunk.js",
+    "index.html": "/index.html",
+    "main.807be20f.css.map": "/static/css/main.807be20f.css.map",
+    "main.fd34542b.js.map": "/static/js/main.fd34542b.js.map",
+    "453.28c95845.chunk.js.map": "/static/js/453.28c95845.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.807be20f.css",
-    "static/js/main.11c5b02f.js"
+    "static/js/main.fd34542b.js"
   ]
 }
